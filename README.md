@@ -1,1 +1,1 @@
-## [![Deploy](https://www.herokucdn.com/hrdjf/ogtt/button.png)](https://heroku.com/hrdjf/ogtt)
+## [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/hrdjf/ogtt)
