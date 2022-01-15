@@ -1,6 +1,6 @@
 {
-  "name": "Gost",
-  "description": "Deploy Gost to Heroku.",
+  "name": "G",
+  "description": "g.",
   "keywords": ["Gost"],
   "env": {
     "METHOD": {
@@ -13,6 +13,6 @@
      }
   },
   "stack": "container",
-  "website": "https://github.com/xiaokaixuan/gost-heroku",
-  "repository": "https://github.com/xiaokaixuan/gost-heroku"
+  "website": "https://github.com/hrdjf/ogtt",
+  "repository": "https://github.com/hrdjf/ogtt"
  }
